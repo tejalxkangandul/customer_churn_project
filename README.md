@@ -369,18 +369,4 @@ To extend this project:
 3. Add evaluation metrics in `src/model_evaluation.py`
 4. Update configuration in `config/config.yaml`
 
-## 📝 License
 
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-Data Science Team
-
-## 📧 Support
-
-For issues and questions, please check the troubleshooting section or refer to the code documentation.
-
----
-
-**Happy Predicting! 🎉**
